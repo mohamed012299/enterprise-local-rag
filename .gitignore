@@ -4,6 +4,7 @@ __pycache__/
 
 enterprise_vector_db/
 chat_history/
+vector_db/
 
 .env
 .DS_Store
