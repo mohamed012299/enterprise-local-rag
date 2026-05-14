@@ -86,7 +86,8 @@ Enterprise-grade Local RAG (Retrieval-Augmented Generation) Assistant built usin
 
 # 📸 Screenshots
 
-(Add screenshots here later)
+<img width="940" height="929" alt="image" src="https://github.com/user-attachments/assets/b557bca4-f489-4501-8439-bba4d05a21c4" />
+
 
 ---
 
